@@ -15,3 +15,5 @@ is_year_round = false
 event_types = ["tuner", "muscle car", "top fuel", "funny car"]
 races = ["1/8th mile", "1/4 mile", "1000 feet"]
 race_type = ["bracket", "heads up"]
+
+dictionary = {"lost" => "red lighted", "hole shot" => "60 foot"}
